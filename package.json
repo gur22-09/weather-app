@@ -1,0 +1,14 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "a weather app using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
